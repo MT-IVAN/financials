@@ -1,1 +1,2 @@
 # financials
+Simple financial app
